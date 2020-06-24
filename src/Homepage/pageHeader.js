@@ -1,16 +1,19 @@
 import React from 'react';
-import belguimGarden from './belguimGarden.jpg';
 
-class pageHeader extends React.Component {
-    
+
+class PageHeader extends React.Component {
+
     render() {
         return (
-            <div >
-                       
+            <div>
                 <h1> Charlotte House Portfolio Page</h1>
-      </div>
-        
-        )}}
+            </div>
+
+        )
+    }
+}
 
 
-    export default pageHeader;
+
+
+export default PageHeader
