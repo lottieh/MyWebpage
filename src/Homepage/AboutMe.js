@@ -4,7 +4,7 @@ class AboutMe extends React.Component {
     
     render() {
         return (
-          <div className = "boxed">
+          <div className = "boxed" col-md-6 >
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Vivamus tincidunt tempor turpis, in rhoncus turpis euismod non. 
