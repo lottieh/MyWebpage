@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import PageHeader from './Homepage/pageHeader';
+import AboutMe from './Homepage/AboutMe';
 
 class App extends React.Component{
   render(){
@@ -8,6 +9,7 @@ class App extends React.Component{
     <div className="App">
    <header>
    <PageHeader/>  
+   <AboutMe />
    
    <div className="boxed"> 
  words test 
