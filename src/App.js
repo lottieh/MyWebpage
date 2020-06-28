@@ -8,8 +8,10 @@ class App extends React.Component{
     <div className="App">
    <header>
    <PageHeader/>  
-   wordss
-
+   
+   <div className="boxed"> 
+ words test 
+   </div>
      </header> 
     </div>
   );
