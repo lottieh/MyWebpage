@@ -1,19 +1,21 @@
 import React from 'react';
-import TC_home from './TC_home.jpeg'
+import gears from './gears.png'
 
 class Project1 extends React.Component {
-    
+
     render() {
         return (
             <div col-md-3>
 
-           
-            <img src={TC_home} alt="Thought Catcher Screen Shot" width="400"  className= "boxed">
+                <div className="project-title"> Project 1 - To Do App </div>
+                <img src={gears} alt="gears filler picture" width="400" className="boxed">
 
-            </img>
-        
-        </div>
-        )}}
+                </img>
+
+            </div>
+        )
+    }
+}
 
 
-    export default Project1
+export default Project1
