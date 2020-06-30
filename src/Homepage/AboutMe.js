@@ -6,9 +6,11 @@ class AboutMe extends React.Component {
         return (
           <div className = "boxed" col-md-6 >
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Vivamus tincidunt tempor turpis, in rhoncus turpis euismod non. 
-Donec sed arcu sed magna gravida maximus sed non ex. 
+I am Charlotte a budding software developer based in surrey.
+I currently focusing on java script and react but am looking to branch out as I go.
+I am also graduated Aberystwyth university with a degree in maths and physics
+ALSO A GIANT NERD,
+ Donec sed arcu sed magna gravida maximus sed non ex. 
 Etiam porta aliquet magna, sed blandit purus. 
 Cras ac felis ut risus porta dictum. 
 Aenean id ultrices nunc. Nam eget nulla quis lorem commodo gravida. 
