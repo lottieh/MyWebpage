@@ -10,15 +10,15 @@
         "editorGroup.border": "#78cea7",
         "panel.border": "#78cea7",
         "sideBar.border": "#78cea7",
-        "statusBar.background": "#52c18f",
-        "statusBar.border": "#52c18f",
+        "statusBar.background": "#53c08f",
+        "statusBar.border": "#53c08f",
         "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#3ba575",
-        "titleBar.activeBackground": "#52c18f",
+        "statusBarItem.hoverBackground": "#3ca475",
+        "titleBar.activeBackground": "#53c08f",
         "titleBar.activeForeground": "#15202b",
-        "titleBar.border": "#52c18f",
-        "titleBar.inactiveBackground": "#52c18f99",
+        "titleBar.border": "#53c08f",
+        "titleBar.inactiveBackground": "#53c08f99",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.remoteColor": "#52c18f"
+    "peacock.remoteColor": "#53c08f"
 }
