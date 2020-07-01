@@ -9,9 +9,10 @@ class Footer extends React.Component {
            <div className ="Footer">
 
             <h6> © Charlotte House July 2020</h6>
+            const element = <FontAwesomeIcon icon ="Coffee"/>
 
-//todo - Add in git hub logo and link
-// Todo - Add Linkedin logo and link
+{/* // todo - Add in git hub logo and link
+// Todo - Add Linkedin logo and link */}
 
         </div>
         )}}

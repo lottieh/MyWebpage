@@ -7,6 +7,8 @@ import Project1 from './Homepage/Project1';
 import Project2 from './Homepage/Project2';
 import Project3 from './Homepage/Project3';
 import Project4 from './Homepage/Project4';
+import Footer from './Homepage/Footer';
+
 
 class App extends React.Component {
   render() {
@@ -32,6 +34,7 @@ class App extends React.Component {
 
          
         </header>
+        <Footer />
       </div>
       </div>
     );
